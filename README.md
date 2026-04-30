@@ -11,5 +11,8 @@ I work with:
 <img src="images/download.jfif" width="70">
 <img src="images/download.png" width="70">
 <img src="images/download (1).png" width="70">
+<img src="images/download (2).png" width="70">
 <img src="images/download (3).png" width="70">
 <img src="images/download (4).png" width="70">
+<img src="images/download (5).png" width="70">
+<img src="images/download (6).png" width="70">
