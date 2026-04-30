@@ -4,15 +4,8 @@ All of these repos are just programs I made (and am still making) during my lear
 I created this profile to share my work with you—maybe it’ll help someone somewhere 🤔
 
 If you love ideas that seem crazy, programming, and building your own toolkit from scratch, you’re welcome 😊
+--
 
-I work with:
+### 🛠️ I work with
 <br><br>
-<img src="images/C_Programming_Language.svg.png" width="70">
-<img src="images/download.jfif" width="70">
-<img src="images/download.png" width="70">
-<img src="images/download (1).png" width="70">
-<img src="images/download (2).png" width="70">
-<img src="images/download (3).png" width="70">
-<img src="images/download (4).png" width="70">
-<img src="images/download (5).png" width="70">
-<img src="images/download (6).png" width="70">
+<img src="images/C_Programming_Language.svg.png" width="70"><img src="images/download.jfif" width="70"><img src="images/download.png" width="70"><img src="images/download (1).png" width="70"><img src="images/download (2).png" width="70"><img src="images/download (3).png" width="70"><img src="images/download (4).png" width="70"><img src="images/download (5).png" width="70"><img src="images/download (6).png" width="70">
