@@ -5,9 +5,12 @@ I created this profile to share my work with you—maybe it’ll help someone so
 
 If you love ideas that seem crazy, programming, and building your own toolkit from scratch, you’re welcome 😊
 
+here are some of the **Programing Languages** I know:
+<img url="https://www.google.com/imgres?q=JS&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg&imgrefurl=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D8%25AC%25D8%25A7%25D9%2581%25D8%25A7_%25D8%25B3%25D9%2583%25D8%25B1%25D9%258A%25D8%25A8%25D8%25AA&docid=x-B_sQBubC_VEM&tbnid=Swa-N3Ndk5oU9M&vet=12ahUKEwiTmv2e8JSUAxVL_rsIHRSaHpMQnPAOegQIEBAB..i&w=800&h=800&hcb=2&ved=2ahUKEwiTmv2e8JSUAxVL_rsIHRSaHpMQnPAOegQIEBAB">
 
 <!--
 **x5ws-programmer/x5ws-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
