@@ -7,5 +7,5 @@ If you love ideas that seem crazy, programming, and building your own toolkit fr
 
 ---
 
-### 🛠️ I work with
+### 🛠️ I work with:
 <img src="images/C_Programming_Language.svg.png" width="50"><img src="images/download.jfif" width="50"><img src="images/download.png" width="50"><img src="images/download (1).png" width="50"><img src="images/download (2).png" width="50"><img src="images/download (3).png" width="50"><img src="images/download (4).png" width="50"><img src="images/download (5).png" width="50"><img src="images/download (6).png" width="50">
