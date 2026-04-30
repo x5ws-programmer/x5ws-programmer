@@ -5,7 +5,7 @@ I created this profile to share my work with you—maybe it’ll help someone so
 
 If you love ideas that seem crazy, programming, and building your own toolkit from scratch, you’re welcome 😊
 
-<br>
+<!-- <br> -->
 I work with:
 <br><br>
 <img src="images/C_Programming_Language.svg.png" width="70">
